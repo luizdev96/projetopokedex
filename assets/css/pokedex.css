@@ -99,7 +99,6 @@
 
 .paginacao button:hover{
     background-color: #40469c;
-    transition: background-color 1s ease-in;
     cursor: pointer;
 }
 
