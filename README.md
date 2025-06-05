@@ -1,4 +1,4 @@
-# 🔍 Pokédex com PokéAPI
+# 🐱 Pokédex com PokéAPI
 
 Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript, integrando a [PokéAPI](https://pokeapi.co/) para buscar informações em tempo real sobre os Pokémon.
 
